@@ -3,10 +3,10 @@
  <b># a . . s #</b><br>
  <b># s . s s #</b><br>
  <b># s . . s #</b><br>
- <b># . s x s #</b><br>
+ <b># . s x s #</b>
  <p>Here it is  posible to go from 'a' to 'x'</p><br>
  <b># a s s s #</b><br>
  <b># s . s s #</b><br>
  <b># s . . s #</b><br>
- <b># s s x s #</b><br>
+ <b># s s x s #</b>
  <p>Here it is  imposible to go from 'a' to 'x'</p><br>
