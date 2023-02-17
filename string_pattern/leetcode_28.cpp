@@ -1,6 +1,17 @@
 class Solution {
 public:
 //https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+    
+    /*
+    strins s = "abcabcabc";
+    string p = "abc";	
+    int found = s.find(p); 
+    while(found != string::npos){
+        cout<<"pattern founded in index : "<<found+1<<endl;
+        found = p.find(t, found + 1);
+    }
+    */
+    
     int strStr(string s, string t) {
      int  sln = s.size();
      int  tln = t.size();
