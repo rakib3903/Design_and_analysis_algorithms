@@ -10,6 +10,7 @@ public:
         cout<<"pattern founded in index : "<<found+1<<endl;
         found = p.find(t, found + 1);
     }
+    This is the function to find the pattern the the string . It returns the intex of pattern traversing from first to last in the strng.
     */
     
     int strStr(string s, string t) {
