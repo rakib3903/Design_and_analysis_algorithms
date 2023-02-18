@@ -4,3 +4,4 @@
 <h2 align = "center">graph problems</h2>
 <h2 align = "center">kmp problems</h2>
 <h2 align = "center">class lectur</h2>
+<h2 align = "center">string pattern</h2>
