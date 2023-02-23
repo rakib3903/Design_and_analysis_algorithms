@@ -5,7 +5,7 @@
 
 Problem Link | Solution Link
 ------------  | ------------
-[Second Order Statistics](https://codeforces.com/problemset/problem/22/A/) | [solution](https://codeforces.com/contest/22/submission/185242779/) 
+[Second Order Statistics(codeforces)](https://codeforces.com/problemset/problem/22/A/) | [solution](https://codeforces.com/contest/22/submission/185242779/) 
 <h2 align = "center">factorial problems</h2>
 <h2 align = "center">graph problems</h2>
 <h2 align = "center">kmp problems</h2>
