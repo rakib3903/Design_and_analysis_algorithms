@@ -2,12 +2,11 @@
 <h1 align = "center">Design and analysis of algorithms</h1>
 <h2 align = "center">vector/set</h2>
 
-<p align = "center">
 Problem Link | Solution Link
 ------------  | ------------
 [A. Second Order Statistics(codeforces)](https://codeforces.com/problemset/problem/22/A/) | [c++ solution](https://codeforces.com/contest/22/submission/185242779/)
 [A. Translation(codeforces)](https://codeforces.com/problemset/problem/41/A/) | [c++ olution](https://codeforces.com/contest/41/submission/184972965)
-</p>
+
 
 <h2 align = "center">map</h2>
 
