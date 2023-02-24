@@ -26,6 +26,13 @@ Problem Link | Solution Link
 [Movie Festival(cses)](https://cses.fi/problemset/task/1629/) | [c++ solution](https://cses.fi/problemset/result/5133571/)
 [Best Time to Buy and Sell Stock(leetcode)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++ solution](https://leetcode.com/submissions/detail/866503138/)
 
+<h2 align = "center">Brute Force</h2>
+[A. Beat The Odds(codeforces)](https://codeforces.com/problemset/problem/1691/A) | [c++ solution] (https://codeforces.com/contest/1691/submission/159014836)
+[A. Expression(codeforces)](https://codeforces.com/problemset/problem/479/A) | [c++ solution](https://codeforces.com/contest/479/submission/188899245)
+[A. Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | [c++ solution](https://codeforces.com/contest/580/submission/188900818)
+[A. Candies(codeforces)](https://codeforces.com/problemset/problem/1343/A) | [c++ solution](https://codeforces.com/contest/1343/submission/188902330)
+[A. Watermelon(codeforces)](https://codeforces.com/problemset/problem/4/A) | [c solution](https://codeforces.com/contest/4/submission/89987223)
+[A. Divan and a Store(codeforces)](https://codeforces.com/problemset/problem/1614/A) | [c++ solution](https://codeforces.com/contest/1614/submission/188904609)
 <h2 align = "center">factorial problems</h2>
 <h2 align = "center">graph problems</h2>
 <h2 align = "center">kmp problems</h2>
