@@ -30,7 +30,8 @@ Problem Link | Solution Link
 
 Problem Link | Solution Link
 ------------  | ------------
-[A. Beat The Odds(codeforces)](https://codeforces.com/problemset/problem/1691/A) | [c++ solution] (https://codeforces.com/contest/1691/submission/159014836)
+[A. Beat The Odds(codeforces)](https://codeforces.com/problemset/problem/1691/A) | [c++ solution
+(https://codeforces.com/contest/1691/submission/159014836)
 [A. Expression(codeforces)](https://codeforces.com/problemset/problem/479/A) | [c++ solution](https://codeforces.com/contest/479/submission/188899245)
 [A. Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | [c++ solution](https://codeforces.com/contest/580/submission/188900818)
 [A. Candies(codeforces)](https://codeforces.com/problemset/problem/1343/A) | [c++ solution](https://codeforces.com/contest/1343/submission/188902330)
