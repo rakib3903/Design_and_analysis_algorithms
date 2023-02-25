@@ -37,6 +37,17 @@ Problem Link | Solution Link
 [A. Watermelon(codeforces)](https://codeforces.com/problemset/problem/4/A) | [c solution](https://codeforces.com/contest/4/submission/89987223)
 [A. Divan and a Store(codeforces)](https://codeforces.com/problemset/problem/1614/A) | [c++ solution](https://codeforces.com/contest/1614/submission/188904609)
 
+<h2 align = "center">Geometry</h2>
+
+Problem Link | Solution Link
+------------  | ------------
+[A. Traveling Salesman Problem(codeforces)](https://codeforces.com/problemset/problem/1713/A) | [c++ solution](https://codeforces.com/contest/1713/submission/188870013)
+[A. Bovine Dilemma(codeforces)](https://codeforces.com/problemset/problem/1466/A) | [c++ solution](https://codeforces.com/contest/1466/submission/188881038)
+[A. Fence(codeforces)](https://codeforces.com/problemset/problem/1422/A) | [c++ solution](https://codeforces.com/contest/1422/submission/188885374)
+[A. Bad Triangle(codeforces)](https://codeforces.com/problemset/problem/1398/A) | [c++ solution](https://codeforces.com/contest/1398/submission/188889107)
+[A. FashionabLee(codeforces)](https://codeforces.com/problemset/problem/1369/A) | [c++ solution](https://codeforces.com/contest/1369/submission/188890772)
+[A. Make a triangle!(codeforces)](https://codeforces.com/problemset/problem/1064/A) | [c++ solution](https://codeforces.com/contest/1064/submission/188893397)
+
 <h2 align = "center">factorial problems</h2>
 <h2 align = "center">graph problems</h2>
 <h2 align = "center">kmp problems</h2>
