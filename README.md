@@ -48,6 +48,13 @@ Problem Link | Solution Link
 [A. FashionabLee(codeforces)](https://codeforces.com/problemset/problem/1369/A) | [c++ solution](https://codeforces.com/contest/1369/submission/188890772)
 [A. Make a triangle!(codeforces)](https://codeforces.com/problemset/problem/1064/A) | [c++ solution](https://codeforces.com/contest/1064/submission/188893397)
 
+<h2 align = "center">Geometry</h2>
+
+Problem Link | Solution Link
+------------  | ------------
+
+
+
 <h2 align = "center">factorial problems</h2>
 <h2 align = "center">graph problems</h2>
 <h2 align = "center">kmp problems</h2>
