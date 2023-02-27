@@ -40,7 +40,7 @@ Problem Link | Solution Link
 <h2 align = "center">Geometry</h2>
 
 Problem Link | Solution Link
-------------  | ------------
+------------ | ------------
 [A. Traveling Salesman Problem(codeforces)](https://codeforces.com/problemset/problem/1713/A) | [c++ solution](https://codeforces.com/contest/1713/submission/188870013)
 [A. Bovine Dilemma(codeforces)](https://codeforces.com/problemset/problem/1466/A) | [c++ solution](https://codeforces.com/contest/1466/submission/188881038)
 [A. Fence(codeforces)](https://codeforces.com/problemset/problem/1422/A) | [c++ solution](https://codeforces.com/contest/1422/submission/188885374)
@@ -48,10 +48,16 @@ Problem Link | Solution Link
 [A. FashionabLee(codeforces)](https://codeforces.com/problemset/problem/1369/A) | [c++ solution](https://codeforces.com/contest/1369/submission/188890772)
 [A. Make a triangle!(codeforces)](https://codeforces.com/problemset/problem/1064/A) | [c++ solution](https://codeforces.com/contest/1064/submission/188893397)
 
-<h2 align = "center">Geometry</h2>
+<h2 align = "center">Number Theory</h2>
 
 Problem Link | Solution Link
 ------------  | ------------
+[A. Factorise N+M(codeforces)](https://codeforces.com/problemset/problem/1740/A) | [c++ solution](https://codeforces.com/contest/1740/submission/188781976)
+[B. Woeful Permutation(codeforces)](https://codeforces.com/problemset/problem/1712/B) | [c++ solution](https://codeforces.com/contest/1712/submission/188787705)
+[A. Divide and Multiply(codeforces)](https://codeforces.com/problemset/problem/1609/A) | [c++ solution](https://codeforces.com/contest/1609/submission/137262798)
+[A. Digits Sum(codeforces)](https://codeforces.com/problemset/problem/1553/A) | [c++ solution](https://codeforces.com/contest/1553/submission/188795586)
+[A. Potion-making(codeforces)](https://codeforces.com/problemset/problem/1525/A) | [c++ solution](https://codeforces.com/contest/1525/submission/188861628)
+[A. Perfectly Imperfect Array(codeforces)](https://codeforces.com/problemset/problem/1514/A) | [c++ solution](https://codeforces.com/contest/1514/submission/188864361)
 
 
 
