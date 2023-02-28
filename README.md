@@ -59,6 +59,16 @@ Problem Link | Solution Link
 [A. Potion-making(codeforces)](https://codeforces.com/problemset/problem/1525/A) | [c++ solution](https://codeforces.com/contest/1525/submission/188861628)
 [A. Perfectly Imperfect Array(codeforces)](https://codeforces.com/problemset/problem/1514/A) | [c++ solution](https://codeforces.com/contest/1514/submission/188864361)
 
+<h2 align = "center">Constructive Algorithm</h2>
+
+Problem Link | Solution Link
+------------  | ------------
+[B. XOR = Average(codeforces)](https://codeforces.com/problemset/problem/1758/B) | [c++ solution](https://codeforces.com/contest/1758/submission/186848691)
+[A. Joey Takes Money(codeforces)](https://codeforces.com/problemset/problem/1731/A) | [c++ solution](https://codeforces.com/contest/1731/submission/186899225)
+[B. BAN BAN(codeforces)](https://codeforces.com/problemset/problem/1747/B) | [c++ solution](https://codeforces.com/contest/1747/submission/188756430)
+[A. Two Groups(codeforces)](https://codeforces.com/problemset/problem/1747/A) | [c++ solution](https://codeforces.com/contest/1747/submission/188762041)
+[A. Maxmina(codeforces)](https://codeforces.com/problemset/problem/1746/A) | [c++ solution](https://codeforces.com/contest/1746/submission/188763772)
+[B. Funny Permutation(codeforces)](https://codeforces.com/problemset/problem/1741/B) | [c++ solution](https://codeforces.com/contest/1741/submission/188774864)
 
 
 <h2 align = "center">factorial problems</h2>
