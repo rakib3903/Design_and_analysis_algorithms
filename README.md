@@ -36,6 +36,7 @@ Problem Link | Solution Link
 [A. Candies(codeforces)](https://codeforces.com/problemset/problem/1343/A) | [c++ solution](https://codeforces.com/contest/1343/submission/188902330)
 [A. Watermelon(codeforces)](https://codeforces.com/problemset/problem/4/A) | [c solution](https://codeforces.com/contest/4/submission/89987223)
 [A. Divan and a Store(codeforces)](https://codeforces.com/problemset/problem/1614/A) | [c++ solution](https://codeforces.com/contest/1614/submission/188904609)
+[D. Coprime(codeforces)](https://codeforces.com/contest/1742/problem/D) | [c++ solution](https://codeforces.com/contest/1742/submission/194708427)
 
 <h2 align = "center">Geometry</h2>
 
