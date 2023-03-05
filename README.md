@@ -72,6 +72,7 @@ Problem Link | Solution Link
 [A. Maxmina(codeforces)](https://codeforces.com/problemset/problem/1746/A) | [c++ solution](https://codeforces.com/contest/1746/submission/188763772)
 [B. Funny Permutation(codeforces)](https://codeforces.com/problemset/problem/1741/B) | [c++ solution](https://codeforces.com/contest/1741/submission/188774864)
 [A. Absolute Maximization(codeforces)](https://codeforces.com/contest/1763/problem/A) | [c++ solution](https://codeforces.com/contest/1763/submission/194983421)
+[B. MKnez's ConstructiveForces Task(codeforces)](https://codeforces.com/contest/1779/problem/B) | [c++ solution](https://codeforces.com/contest/1779/submission/194346170)
 
 
 <h2 align = "center">factorial problems</h2>
