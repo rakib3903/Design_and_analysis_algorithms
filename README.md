@@ -79,6 +79,7 @@ Problem Link | Solution Link
 Problem Link | Solution Link
 ------------  | ------------
 [B. Borze(codeforces)](https://codeforces.com/contest/32/problem/B) | [c++ solution](https://codeforces.com/contest/32/submission/194437634)
+[B. Deadly Laser(codeforces)](https://codeforces.com/contest/1721/problem/B) | [c++ solution](https://codeforces.com/contest/1721/submission/196158551)
 
 
 <h2 align = "center">factorial problems</h2>
