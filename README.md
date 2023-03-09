@@ -26,6 +26,7 @@ Problem Link | Solution Link
 [Movie Festival(cses)](https://cses.fi/problemset/task/1629/) | [c++ solution](https://cses.fi/problemset/result/5133571/)
 [Best Time to Buy and Sell Stock(leetcode)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++ solution](https://leetcode.com/submissions/detail/866503138/)
 [B. Increasing(codeforces)](https://codeforces.com/contest/1742/problem/B) | [c++ solution](https://codeforces.com/contest/1742/submission/194580085)
+[A. Likes(codeforces)](https://codeforces.com/contest/1802/problem/A) | [c++ solution](https://codeforces.com/contest/1802/submission/196614770)
 
 <h2 align = "center">Brute Force</h2>
 
