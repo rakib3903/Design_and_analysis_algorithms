@@ -74,6 +74,7 @@ Problem Link | Solution Link
 [B. Funny Permutation(codeforces)](https://codeforces.com/problemset/problem/1741/B) | [c++ solution](https://codeforces.com/contest/1741/submission/188774864)
 [A. Absolute Maximization(codeforces)](https://codeforces.com/contest/1763/problem/A) | [c++ solution](https://codeforces.com/contest/1763/submission/194983421)
 [B. MKnez's ConstructiveForces Task(codeforces)](https://codeforces.com/contest/1779/problem/B) | [c++ solution](https://codeforces.com/contest/1779/submission/194346170)
+[A. Prefix and Suffix Array(codeforces)](https://codeforces.com/contest/1794/problem/A) | [c++ solution](https://codeforces.com/contest/1794/submission/196487846)
 
 <h2 align = "center">Implementation</h2>
 
