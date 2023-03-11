@@ -61,6 +61,7 @@ Problem Link | Solution Link
 [A. Digits Sum(codeforces)](https://codeforces.com/problemset/problem/1553/A) | [c++ solution](https://codeforces.com/contest/1553/submission/188795586)
 [A. Potion-making(codeforces)](https://codeforces.com/problemset/problem/1525/A) | [c++ solution](https://codeforces.com/contest/1525/submission/188861628)
 [A. Perfectly Imperfect Array(codeforces)](https://codeforces.com/problemset/problem/1514/A) | [c++ solution](https://codeforces.com/contest/1514/submission/188864361)
+[A. Noldbach problem(codeforces)](https://codeforces.com/contest/17/problem/A) | [c++ solution](https://codeforces.com/contest/17/submission/194418093)
 
 <h2 align = "center">Constructive Algorithm</h2>
 
