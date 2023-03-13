@@ -28,6 +28,7 @@ Problem Link | Solution Link
 [B. Increasing(codeforces)](https://codeforces.com/contest/1742/problem/B) | [c++ solution](https://codeforces.com/contest/1742/submission/194580085)
 [A. Likes(codeforces)](https://codeforces.com/contest/1802/problem/A) | [c++ solution](https://codeforces.com/contest/1802/submission/196614770)
 [B. Count the Number of Pairs(codeforces)](https://codeforces.com/problemset/problem/1800/B) | [c++ solution](https://codeforces.com/contest/1800/submission/195661096)
+[A. Lame King(codeforces)](https://codeforces.com/contest/1804/problem/A) | [c++ solution](https://codeforces.com/contest/1804/submission/197103498)
 
 <h2 align = "center">Brute Force</h2>
 
