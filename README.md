@@ -86,6 +86,7 @@ Problem Link | Solution Link
 [B. Borze(codeforces)](https://codeforces.com/contest/32/problem/B) | [c++ solution](https://codeforces.com/contest/32/submission/194437634)
 [B. Deadly Laser(codeforces)](https://codeforces.com/contest/1721/problem/B) | [c++ solution](https://codeforces.com/contest/1721/submission/196158551)
 [C. Stripes(codeforces)](https://codeforces.com/contest/1742/problem/C) | [c++ solution](https://codeforces.com/contest/1742/submission/194588805)
+[A2. Alternating Deck (hard version) (codeforces)](https://codeforces.com/contest/1786/problem/A2) | [c++ solution](https://codeforces.com/contest/1786/submission/194342446)
 
 <h2 align = "center">factorial problems</h2>
 <h2 align = "center">graph problems</h2>
