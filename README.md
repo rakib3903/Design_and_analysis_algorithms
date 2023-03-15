@@ -41,6 +41,7 @@ Problem Link | Solution Link
 [A. Watermelon(codeforces)](https://codeforces.com/problemset/problem/4/A) | [c solution](https://codeforces.com/contest/4/submission/89987223)
 [A. Divan and a Store(codeforces)](https://codeforces.com/problemset/problem/1614/A) | [c++ solution](https://codeforces.com/contest/1614/submission/188904609)
 [D. Coprime(codeforces)](https://codeforces.com/contest/1742/problem/D) | [c++ solution](https://codeforces.com/contest/1742/submission/194708427)
+[B. String LCM(codeforces)](https://codeforces.com/contest/1473/problem/B) | [c++ solution](https://codeforces.com/contest/1473/submission/193997836)
 
 <h2 align = "center">Geometry</h2>
 
