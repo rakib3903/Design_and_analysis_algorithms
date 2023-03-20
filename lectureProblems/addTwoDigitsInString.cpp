@@ -3,7 +3,7 @@
     #define fast_io ios_base::sync_with_stdio(false);cin.tie(NULL)
     using namespace std;
     /*
-    You are given a numver string. Your task is to add two digits of the string just one time and replace the sum deleting the digits. 
+    You are given a number string. Your task is to add two digits of the string just one time and replace the sum deleting the digits. 
     input : 11130
     output : 2130
     
