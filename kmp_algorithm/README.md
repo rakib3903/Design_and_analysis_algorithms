@@ -8,10 +8,10 @@
 
 4. If both the characters matches then set LPS[j]=i+1 and increment both i and j values by 1.<br>
   &nbsp;GOTO STEP 3<br>
-
+  
 5. If both the characters do not match<br>
 
-6 check the value of i<br>
+6. check the value of i<br>
   &nbsp; a. if its '0' then set LPS[j]=0 and increment 'j' value by one.<br>
   &nbsp; b. if its not '0' then set i=LPS[i-1].<br>
 GOTO STEP 3
